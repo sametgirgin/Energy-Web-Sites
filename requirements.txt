@@ -1,0 +1,6 @@
+streamlit
+pandas
+feedparser
+beautifulsoup4
+requests
+openpyxl
